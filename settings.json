@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "TechnoBlade",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Dvichblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MYSMP-PTG6.aternos.me",
-    "port": 63551,
+    "ip": "Mysmp-S1.aternos.me",
+    "port": 44686,
     "version": "1.21.1"
   },
   "position": {
